@@ -1,6 +1,6 @@
 {
 	"ip":"hdgolem.aternos.me",
 	"port": "61312",
-	"name": "afkbot1",
+	"name": "afk",
 	"auto-night-skip":"false"
 }
